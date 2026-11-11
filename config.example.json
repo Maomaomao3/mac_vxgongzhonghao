@@ -1,0 +1,10 @@
+{
+  "AI_BASE_URL": "https://api.deepseek.com",
+  "AI_MODEL": "deepseek-chat",
+  "AI_API_KEY": "",
+  "PEXELS_API_KEY": "",
+  "WECHAT_APP_SECRET": "",
+  "WECHAT_APP_ID": "",
+  "IMAGE_SOURCE": "original",
+  "AUTHOR": ""
+}

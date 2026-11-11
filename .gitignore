@@ -1,0 +1,33 @@
+.venv/
+__pycache__/
+.pytest_cache/
+build/
+dist/
+*.spec
+# Private configuration / credentials
+config.json
+config.*.json
+!config.example.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*cookie*
+*token*.txt
+*credentials*
+*storage_state*
+.wechat_browser_profile/
+# Generated content / local records
+outputs/
+wechat_output/
+logs/
+*.log
+*.sqlite*
+*.db
+.DS_Store
+.vscode/
+.idea/
+*.zip
